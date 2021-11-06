@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FelipeReis11011
+- 👀 I’m interested in Speedrunning
+- 🌱 I’m currently learning Speedrun.com Rest API
+- 💞️ I’m looking to collaborate on idk
+- 📫 How to reach me: sr.c "felipereis11011"
